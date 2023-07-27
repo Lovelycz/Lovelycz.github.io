@@ -1,6 +1,6 @@
-baseURL               = "https://xmelon.cafe/"
+baseURL               = "https://xorange.cafe/"
 languageCode          = "zh-CN"
-title                 = "小瓜田"
+title                 = "橙子果园"
 theme                 = "WebStack"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -33,7 +33,7 @@ publishDir            = "public"					# 站点静态文件保存目录
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-    favicon           = "https://cdn.staticaly.com/gh/Dreamin121/picgohub@master/xmelon.webp"
+    favicon           = "https://cdn.staticaly.com/gh/Dreamin121/picgohub@master/orange.png"
     searchImageL      = "https://cdn.staticaly.com/gh/Dreamin121/picgohub@master/imgs/01598e5db26aa4a801209e1f4c7784.gif"		# 搜索部分浅色背景图
     searchImageD      = "https://cdn.staticaly.com/gh/Dreamin121/picgohub@master/imgs/01598e5db26aa4a801209e1f4c7784.gif"		# 搜索部分深色背景图
     logoExpandLight   = "https://cdn.staticaly.com/gh/Dreamin121/picgohub@master/xmelon.webp"
