@@ -502,8 +502,8 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 .big-header-banner:not(.header-bg) .header-mini-btn label:hover path{stroke:#fff}
 .header-big{position:relative;margin-top:-75px;padding-top:30px;padding-bottom:60px}
 .header-big.bg-gradual:before{content: "";position: absolute;left: 0;height: 80px;right: 0;bottom: 0;background-image: linear-gradient(to top,#f9f9f9 0%,transparent 80%);transition:.3s}
-.header-big.css-img,.header-big.css-bing{background-color:#1b1d1f;background-size:cover;background-position:cover}
-.header-big.canvas-fx{background-color:#1b1d1f}
+.header-big.css-img,.header-big.css-bing{background-color:#0d1117;background-size:cover;background-position:cover}
+.header-big.canvas-fx{background-color:#0d1117}
 .post-top{padding-bottom:10px}
 .header-big.no-bg{padding-bottom:10px}
 .header-big.css-color{background-size:400%;background-position:0% 100%;-webkit-animation:gradient 7.5s ease-in-out infinite;animation:gradient 7.5s ease-in-out infinite}
@@ -556,7 +556,7 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 }
 @media screen and (min-width:992px){.header-big .s-search{margin:0}
 }
-.io-black-mode .header-big.bg-gradual:before{background-image: linear-gradient(to top,#1b1d1f 0%,transparent 80%)} 
+.io-black-mode .header-big.bg-gradual:before{background-image: linear-gradient(to top,#0d1117 0%,transparent 80%)} 
 .io-black-mode .big-header-banner .page-header {background:transparent;box-shadow:none}
 .io-black-mode .big-header-banner.header-bg .page-header{color:#fff;background:#2c2e2f;box-shadow:0 0 25px 5px rgba(10,10,10,.25)}
 /* --- carousel --- */
@@ -1010,7 +1010,7 @@ input.nav-link:disabled,input.nav-link[readonly]{background-color:transparent;op
 /*--------------------------------------------------------------
 ## black style
 --------------------------------------------------------------*/
-.io-black-mode{background-color:#1b1d1f}
+.io-black-mode{background-color:#0d1117}
 .io-black-mode .logo-light{display:none!important}
 .io-black-mode .logo-dark{display:initial!important}
 .io-black-mode .btn-move{color:#989da1!important}
@@ -1042,8 +1042,8 @@ input.nav-link:disabled,input.nav-link[readonly]{background-color:transparent;op
 .io-black-mode #footer-tools .btn{color:#aaa;background:#363738}
 .io-black-mode #footer-tools .btn:hover{color:#fff}
 .io-black-mode a:not(.btn):hover{color:#fff}
-.io-black-mode .down-content .statement:before{background:#1b1d1f;box-shadow:0 10px #1b1d1f,0 20px #1b1d1f}
-.io-black-mode .down-content .statement{border-color:#1b1d1f;background:rgba(0,0,0,.1)}
+.io-black-mode .down-content .statement:before{background:#0d1117;box-shadow:0 10px #0d1117,0 20px #0d1117}
+.io-black-mode .down-content .statement{border-color:#0d1117;background:rgba(0,0,0,.1)}
 .io-black-mode .navbar-collapse ul li ul,.io-black-mode .dropdown-menu{background:#3D4044;box-shadow:0 10px 30px -10px rgba(0,0,0,.5)}
 .io-black-mode .down-content .card-signup{box-shadow:0 16px 24px 2px rgba(0,0,0,.14),0 6px 30px 5px rgba(0,0,0,.12),0 8px 10px -5px rgba(0,0,0,.2)}
 .io-black-mode .btn-light{color:#b2b8be!important;background-color:#363738!important;border-color:transparent!important}
