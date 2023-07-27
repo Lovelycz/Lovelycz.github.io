@@ -289,7 +289,7 @@ input[type="button"],input[type="submit"]{background-color:#222;border:0;-webkit
 }
 
 /* --- black --- */
-.black{background-color:#26282a}
+.black{background-color:#2e303e}
 .black,.black a:not(.btn),.black .button>a{color:#ddd}
 .black p{color:#bcbcbc}
 .black .tpwthwidt .text_235ileA,.black .tpwthwidt .title_2Cea4o9,.black .comments-area label{color:#bbb}
