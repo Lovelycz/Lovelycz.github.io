@@ -10,7 +10,7 @@ publishDir            = "public"					# 站点静态文件保存目录
 
 [params]
     author        = "Dreamin"
-    description   = "Webstack-Hugo 网址导航 | Hugo 主题 BY Bio IT 爱好者"
+    description   = "Webstack-Hugo 网址导航 | Hugo 主题 BY 橙子"
     upload        = "mailto:12185744@qq.com"  # 左侧导航栏的"网站提交"
     about         = "https://shumlab.com/cookbook/webstack-hugo"	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
