@@ -647,90 +647,9 @@
           logo: mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
 
-
-- taxonomy: 资讯学习
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: 资讯书籍
-      links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: 博客论坛
-      links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
-    - term: 设计规范
-      links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: Material_Design.png
-          description: Introduction - Material Design.
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: human_interface_guidelines.png
-          description: Human Interface Guidelines iOS.
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: photoshopetiquette.png
-          description: PS礼仪-WEB设计指南。
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）。
-       
 - taxonomy: 书籍
   icon: linecons-inbox
   links:
-    - title: Z-Library
-      logo: https://z-lib.org/favicon.ico
-      description: 电子书资源第一站
-      url: https://z-lib.org/
     - title: 中国高校课件下载中心
       logo: http://download.cucdc.com/favicon.ico
       description: 下载大学课本 PDF 的网站
@@ -787,3 +706,231 @@
       logo: https://www.dedigger.com/favicon.ico
       description: 查找 Google 云盘的公共文件（不限于电子书）
       url: https://www.dedigger.com/
+
+- taxonomy: 软件开发
+  icon: linecons-desktop
+  links:
+    - title: Hello，算法
+      description: 一本动画图解、能运行、可提问的数据结构与算法入门书
+      url: https://www.hello-algo.com/
+    - title: CS 自学指南
+      description: 一本计算机科学的自学指南
+      url: https://csdiy.wiki/
+    - title: Marius Hosting
+      description: Synology NAS 群晖专家指南
+      url: https://mariushosting.com/
+    - title: W3School
+      description: 各种语言的入门手册
+      url: https://www.w3school.com.cn/index.html
+    - title: Jamstack
+      description: 静态网站的参考（包括各类生成器和 CMS）
+      url: https://jamstack.org/
+    - title: OverAPI.com
+      description: 各种变成语言的常用语法一览表
+      url: https://overapi.com/
+    - title: 《Think Python 2e》
+      description: 最新中文翻译版本
+      url: https://codingpy.com/books/thinkpython2/index.html#think-python-2e
+    - title: 《GitHub 漫游指南》
+      description:
+      url: https://github.com/linyuxuanlin/File-host/blob/main/software-development/GitHub%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97.pdf
+
+- taxonomy: 优质博客
+  icon: linecons-note
+  links:
+    - title: 《交大生存手册》
+      description: 我们能从大学教育里获得什么？
+      url: https://survivesjtu.gitbook.io/survivesjtumanual/
+    - title: 科学生活
+      description:
+      url: https://861204.xyz/
+    - title: STANLEYPROJECTS
+      description: A maker's blog
+      url: https://stanleyprojects.com/
+    - title: 黄树超
+      description: 嵌入式工程师
+      url: https://www.cnblogs.com/schips/
+    - title: AresX's Blog
+      description: wubba lubba dub dub.
+      url: https://ares-x.com/
+    #- title: 城中村群租房
+    #  description: 一些写得不错的文章
+    #  url: https://www.darmau.com/
+    - title: read and go
+      description: 一些启发性的随想
+      url: https://unee.wang/
+    - title: 小土刀 2.0
+      description: 一些启发性的随想
+      url: https://wdxtub.com/
+    - title: FROYO's Blog
+      description: 把握现在，拥抱未来
+      url: http://www.izhuyue.com/
+    - title: 李笑来作品集
+      description: 人生的尴尬在于之前决策的时候并不可能有之后那么丰富的经验……
+      url: http://lixiaolai.com/
+    - title: Peng Gu
+      description: Live with less. Share with more.
+      url: https://medium.com/@peng/latest
+    - title: 土木坛子
+      description: 和光同尘，与时舒卷
+      url: https://tumutanzi.com/
+    - title: 技术笔记 - 阳志平的网志
+      description: 致力于认知科学的产品开发、课程设计与科学传播。
+      url: http://www.yangzhiping.com/tech/
+    - title: Jason
+      description: 很有意思的每日随想
+      url: https://atjason.com/
+    - title: 不如
+      description: 码农，程序猿，未来的昏析狮
+      url: http://ibruce.info/
+    - title: 达夕博客
+      description: 关注工作效率/提高生产力/数字化工作/优秀软件
+      url: https://www.daxiblog.com/
+    - title: MADE(by)FRUTOS
+      description: 一些与 Arduino 相关的个人作品
+      url: https://madebyfrutos.wordpress.com/
+    - title: 0miker0's Blog
+      description: Arduino and various other projects
+      url: https://0miker0.wordpress.com/
+    - title: ARuFa の日記
+      description: 脑洞奇大的 DIY 博主
+      url: http://arufa.hatenablog.jp/
+    - title: 稚晖的个人站
+      description: 十年饮冰，难凉热血
+      url: http://pengzhihui.xyz/
+    - title: cevinius
+      description: MobBob 机器人的作者
+      url: https://www.cevinius.com/
+    - title: Do U Find IT?
+      description: 一个有意思的嵌入式博主
+      url: http://www.chaosgoo.com/
+    - title: 小木・年轮
+      description: 一个有趣的技术博客
+      url: http://caiyao.name/
+    - title: 萨摩的部落格
+      description: 掉毛中……
+      url: https://i-meto.com/
+    - title: reuixiy
+      description: 一个技术博客
+      url: https://io-oi.me/
+    - title: Moorez
+      description: 一个技术博客
+      url: http://shenzekun.cn/
+    - title: ookamiAntD's Blog
+      description: Easy codingeasy life.
+      url: https://yangbingdong.com/
+    - title: IT草根
+      description: 有意思的随想
+      url: http://codepub.cn/
+    - title: 无垠
+      description: 飞翔的天空无限大
+      url: https://img.flyhigher.top/wp-content/uploads/2017/01/cropped-touch-1.png?imageView2/1/w/64/h/64/interlace/1/q/90#
+    - title: 木木木木木
+      description: 有意思的技术博客
+      url: https://immmmm.com/
+    - title: Colmugx's Blog
+      description: 让一切充满想象力
+      url: https://colmugx.github.io/blog/
+    - title: 始终
+      description: 不忘初心
+      url: https://liam.page/
+    - title: 裂帛碎玉的想法
+      description: 有意思的技术博客
+      url: https://blog.vvzero.com/
+    - title: MAYBEIWILL
+      description: 有意思的随想
+      url: https://maybeiwill.me/
+    - title: 也而的博客
+      description: 在天涯和海角 放石头和葡萄
+      url: https://zoomyale.com/
+    - title: Spencer's Blog
+      description: 阿巴阿巴 o ((>ω<)) o
+      url: https://blog.spencerwoo.com/
+    - title: JeeH
+      description: Headers for framework- and platform-agnostic code
+      url: https://jeelabs.org/projects/jeeh/
+    - title: LT
+      description: Revolutionary Road
+      url: http://blog.davidrobot.com/
+    - title: 林海草原
+      description: 一些有意思的随想
+      url: https://lhcy.org/
+    - title: 何世友的日志
+      description: 一些有意思的杂谈
+      url: https://ernest.me/
+    - title: Matrix67
+      description: 有趣的数学知识
+      url: http://www.matrix67.com/blog/
+    - title: Ja50n - go ahead
+      description: 想什么呢，一直往前走
+      url: https://blog.ulinkmega.com/
+    - title: Liaoyuqin
+      description: Write drunk edit sober. I am a lovely pirate.
+      url: https://www.liaoyuqin.com/
+    - title: 周良粥凉
+      description: 有意思的随想
+      url: https://ericec.cn/
+    - title: 从良未遂
+      description: 有事就做事，没事叼根烟
+      url: https://www.ithmz.com/
+    - title: INFORX
+      description: 技术博客
+      url: https://inforscan.com/
+    - title: MacTalk-池建强的随想录
+      description: 关注技术和人文
+      url: http://macshuo.com/
+    - title: 阮一峰的网络日志
+      description: 技术博客
+      url: http://www.ruanyifeng.com/blog/
+    - title: 千橙工坊
+      description: 做有温度的金融科技
+      url: https://www.qiancheng.me/
+    - title: 掘墓人的小铲子
+      description: 有意思的科技文
+      url: https://juemuren4449.com/
+    - title: 咖啡入门书
+      description: 系统了解咖啡的相关知识
+      url: https://kaix.in/0001/primer-of-coffee/
+    - title: BETTYPLEX
+      description: Life is full of regrets
+      url: https://forbetty.com/
+    - title: Lazy Blog
+      description: 不想当厨子的司机不是好码农
+      url: https://www.weichao.ren/
+    - title: Ton's Blog
+      description: 一个存放笔记的小盒子
+      url: https://ton.tn/
+    - title: cdxy.me
+      description: Cyber Security / Data Science / Trading
+      url: https://www.cdxy.me/
+    - title: topbook
+      description: 高效生活视频书
+      url: http://topbook.cc/
+    - title: 搜百谷
+      description: 网站、编程、软件等
+      url: https://sobaigu.com/
+    - title: 野狼队知识库
+      description: 公开知识库
+      url: https://wiki.wildwolf.pw/
+    - title: 野狼博客导航
+      description: 队员们的博客收录
+      url: https://nav.wildwolf.pw/
+    - title: 求知若饥，知行合一
+      description: 一个中科院博士僧的博客（视觉、机器学习、阅读）
+      url: http://lanbing510.info/
+    - title: JiPai Store
+      description: 世界之大，鸽子何时会再驻足于此？
+      url: https://www.JiPai.moe
+
+- taxonomy: 生活
+  icon: linecons-cup
+  links:
+    - title: 急救指南
+      description: 应急急救指南
+      url: https://m.youlai.cn/jijiu
+    - title: 程序员做饭指南
+      description: 程序员式的菜谱
+      url: https://cook.aiurs.co/
+    - title: 菜谱
+      description: 简约的菜谱
+      url: https://zhongkui.org/cn/recipe/
