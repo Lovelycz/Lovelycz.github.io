@@ -180,13 +180,14 @@
           url: http://www.officeplus.cn/Template/Home.shtml
           logo: officeplus.png
           description: OfficePLUS，微软Office官方在线模板网站
-- taxonomy: 
+- taxonomy: 软件开发
   icon: fas fa-tools fa-lg
   list: 
-    - links:
+    - term: 软件
+      links:
         - title: CS自学指南
           url: https://csdiy.wiki/
-          logo: https://cdn.staticaly.com/gh/Lovelycz/Img@master/imgs/202307281206850.png
+          logo: https://cdn.staticaly.com/gh/Lovelycz/Img@master/imgs/202307272145473.png
           description: Identify technology on websites.
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
