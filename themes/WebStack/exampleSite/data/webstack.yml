@@ -334,7 +334,7 @@
           description: 中国领先的PPT模板共享平台。
       
 
-- taxonomy: 开发设计
+- taxonomy: 开发
   icon: fas fa-tools fa-lg
   list: 
     - term: 软件开发
@@ -343,26 +343,6 @@
           url: https://csdiy.wiki/
           logo: https://cdn.staticaly.com/gh/Lovelycz/Img@master/imgs/202307272145473.png
           description: Identify technology on websites.
-        - title: Panda
-          url: http://usepanda.com/
-          logo: usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: sizzy.png
-          description: A tool for developing responsive websites crazy-fast.
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: insight.png
-          description: IDE-like code search and navigation, on the cloud.
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
 
 
 - taxonomy: 资讯学习
