@@ -723,17 +723,67 @@
           url: https://www.imooc.com/
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
-        
+       
 - taxonomy: 书籍
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: 
-      links:
-        - title: 书伴
-          url: https://bookfere.com/
-          logo: https://cdn.staticaly.com/gh/Lovelycz/Img@master/imgs/202307281701161.png
-          description: 你的电子伴侣
-        - title: SaltTiger
-          url: https://salttiger.com/
-          logo: https://cdn.staticaly.com/gh/Lovelycz/Img@master/imgs/202307281707922.png
-          description: 每天一本编程书，每天进步一点点      
+  icon: linecons-inbox
+  links:
+    - title: Z-Library
+      logo: https://z-lib.org/favicon.ico
+      description: 电子书资源第一站
+      url: https://z-lib.org/
+    - title: 中国高校课件下载中心
+      logo: http://download.cucdc.com/favicon.ico
+      description: 下载大学课本 PDF 的网站
+      url: http://download.cucdc.com/
+    - title: 全国图书馆参考咨询联盟
+      logo: http://www.ucdrs.superlib.net/favicon.ico
+      description: 最全的中文书籍站点
+      url: http://www.ucdrs.superlib.net/
+    - title: Library Genesis
+      logo: http://libgen.rs/favicon.ico
+      description: 最全的英文书籍站点
+      url: http://libgen.rs/
+    - title: SaltTiger
+      logo: https://salttiger.com/favicon.ico
+      description: 每天一本编程书，每天进步一点点
+      url: https://salttiger.com/
+    - title: PanSou 盘搜
+      logo: http://www.pansou.com/favicon.ico
+      description: 网盘资源，盘搜一下
+      url: http://www.pansou.com/
+    - title: IT eBooks
+      logo: http://it-ebooks.info/favicon.ico
+      description: Download Read Use
+      url: http://it-ebooks.info/
+    - title: PDFGet
+      logo: https://pdfget.com/favicon.ico
+      description: 一些英文电子书
+      url: https://pdfget.com/
+    - title: 书伴
+      logo: https://bookfere.com/favicon.ico
+      description: 为静心阅读而生
+      url: https://bookfere.com/
+    - title: Clippings.io
+      logo: https://my.clippings.io/favicon.ico
+      description: 导出 Kindle 笔记
+      url: https://my.clippings.io/#
+    - title: Zlibrary
+      logo: https://1lib.us/favicon.ico
+      description: 很全的资源站
+      url: https://1lib.us/s/
+    - title: 中国哲学书电子化计划
+      logo: https://ctext.org/favicon.ico
+      description: 提供中国历代传世文献
+      url: https://ctext.org/zhs
+    - title: 书格
+      logo: https://new.shuge.org/favicon.ico
+      description: 提供古籍的高清彩色影像版本 PDF 文件下载
+      url: https://new.shuge.org/
+    - title: Internet Archive
+      logo: https://archive.org/favicon.ico
+      description: 互联网存档
+      url: https://archive.org/
+    - title: de🔸digger
+      logo: https://www.dedigger.com/favicon.ico
+      description: 查找 Google 云盘的公共文件（不限于电子书）
+      url: https://www.dedigger.com/

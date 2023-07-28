@@ -727,8 +727,6 @@
 - taxonomy: 书籍
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 
-      links:
         - title: 书伴
           url: https://bookfere.com/
           logo: https://cdn.staticaly.com/gh/Lovelycz/Img@master/imgs/202307281701161.png
