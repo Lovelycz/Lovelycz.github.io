@@ -179,23 +179,14 @@
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
           logo: officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: PPTMind
-          url: http://www.pptmind.com/
-          logo: pptmind.png
-          description: 分享高端 ppt 模板与 keynote 模板的数字作品交易平台。
-        - title: 5百丁
-          url: http://ppt.500d.me/
-          logo: 500d.png
-          description: 中国领先的PPT模板共享平台。
-- taxonomy: 开发
+          description: OfficePLUS，微软Office官方在线模板网站
+- taxonomy: 
   icon: fas fa-tools fa-lg
   list: 
-    - term: 软件开发
-      links:
+    - links:
         - title: CS自学指南
           url: https://csdiy.wiki/
-          logo: https://cdn.staticaly.com/gh/Lovelycz/Img@master/imgs/202307272145473.png
+          logo: https://cdn.staticaly.com/gh/Lovelycz/Img@master/imgs/202307281206850.png
           description: Identify technology on websites.
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
