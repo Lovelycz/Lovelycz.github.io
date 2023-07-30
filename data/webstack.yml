@@ -811,7 +811,7 @@
       url: http://arufa.hatenablog.jp/
     - title: 稚晖的个人站
       logo: http://pengzhihui.xyz/favicon.ico
-     description: DIY、编程、硬件
+      description: DIY、编程、硬件
       url: http://pengzhihui.xyz/
     - title: Maker Fabs
       logo: https://www.makerfabs.com/favicon.ico
@@ -849,7 +849,7 @@
       logo: https://growth-of-a-programmer.github.io/favicon.ico
       description: 编程、技术
       url: https://growth-of-a-programmer.github.io/
-      
+
 - taxonomy: 生活
   icon: linecons-cup
   links:
