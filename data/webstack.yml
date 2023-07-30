@@ -655,9 +655,11 @@
     - title: Hello，算法
       description: 一本动画图解、能运行、可提问的数据结构与算法入门书
       url: https://www.hello-algo.com/
+      https://www.hello-algo.com/favicon.ico
     - title: CS 自学指南
       description: 一本计算机科学的自学指南
       url: https://csdiy.wiki/
+      logo: https://cdn.staticaly.com/gh/Lovelycz/Img@master/imgs/202307301658109.png
     - title: Marius Hosting
       description: Synology NAS 群晖专家指南
       url: https://mariushosting.com/
