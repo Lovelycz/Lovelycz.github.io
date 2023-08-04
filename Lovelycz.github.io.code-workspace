@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../xorange"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"5.C": "cpp",
+			"字符的输出.C": "cpp",
+			"6.C": "cpp",
+			"7.C": "cpp",
+			"8.C": "cpp",
+			"不同类型变量的字节数.C": "cpp",
+			"自增自减运算.C": "cpp"
+		}
+	}
+}
